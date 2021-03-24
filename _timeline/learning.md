@@ -19,5 +19,7 @@ events:
   - mit-scratch
   - sugar-neighborhood
   - minecraft-end-user
+  - minecraft-education
+  - omega2
 ---
 

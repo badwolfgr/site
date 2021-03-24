@@ -27,4 +27,6 @@ slides:
   - learntomod
   - hackathon
   - hackerspace
+  - minecraft-education
+  - omega2
 ---
